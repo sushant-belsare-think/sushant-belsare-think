@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I enjoy turning concepts into polished , scalable apps that users love for both android and iOS users. 🍏🤖</p>
+<p align="left">I enjoy turning concepts into polished , scalable apps that users love for both android and iOS users. 🍏🤖.<br><br>In my journey, I've tackled challenges, embraced new technologies with Bridging the gap between platforms 🔀<br><br>#iOSDeveloper #AndroidDeveloper #MobileAppDev #Swift #Kotlin #Java #Flutter #ReactNative #MobileUI #AppDevelopment #CrossPlatform #CodeQuality #UserExperience  #AppDesign #SoftwareEngineering   #DeveloperLife #MobileInnovation #OpenSource #GitHub</p>
 
 ###
 
